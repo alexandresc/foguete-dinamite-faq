@@ -3,3 +3,10 @@
     "vuepress": "^0.14.11"
   }
 }
+
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
